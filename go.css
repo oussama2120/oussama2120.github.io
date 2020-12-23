@@ -1,0 +1,72 @@
+body
+{
+    background-image:url(gg.jpg);min-height:500px;background-size:cover;text-align:center;font-family:monospace;font-weight:bold
+}
+.container
+{
+    width:1000px;margin:auto;overflow:hidden
+}
+
+/* start header */
+.header
+{
+    border-radius: 20px;overflow:hidden;margin:auto;
+}
+header ul
+{
+    list-style: none;padding:0px;margin:0px
+}
+header ul li
+{
+    display:inline-block;padding-top:10px;margin:10px;font-family: ;font-weight: bold;font-size:20px;margin-left:45px;
+    ;padding-bottom:10px
+}
+header ul li a
+{
+    text-decoration: none;color: rgb(59, 87, 157)
+}
+header ul li a:hover
+{
+   color: rgb(30, 30, 30)
+}
+
+/* end header */
+
+/* start sign in */
+
+.signin
+{
+    margin-top:30px;padding:20px;background:;overflow:hidden;text-align:center;width:500px;margin:auto
+}
+.signin input
+{
+    width:300px;margin:20px;padding:10px;background:none;border:none;border-bottom:1px grey solid;color:black;font-weight:bold
+}
+.fblogo
+{
+    width:20px;height:20px
+}
+.fb
+{
+    padding:2px;border-radius: 5px;border:1px rgb(59, 87, 157) solid;background:rgb(59, 87, 157);color:white;margin:1px;width:300px;padding-bottom:6px
+}
+a
+{
+    text-decoration:none;color:rgb(30, 30, 30)
+}
+.biglogo
+{
+    margin-top:10px
+}
+.login
+{
+    padding:5px 10px 5px 10px;background:white;border:1px black solid;font-weight:bold
+}
+.active
+{
+    color:rgb(30, 30, 30)
+}
+.social
+{
+    margin-top:50px;line-height: 15px
+}
