@@ -3,5 +3,5 @@
 function nonyet() {
     "use strict";
 
-    alert("Good Night A Zine");
+    alert("Good Night Have nice dreams :)");
 }
